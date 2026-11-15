@@ -1,0 +1,4 @@
+interface:
+  display_name: "股票趋势分析"
+  short_description: "从市场健康度、阶段与核心温度计到承载切换和风险退出"
+  default_prompt: "使用 $stock-trend-analysis 先定市场健康度与反弹/反转/二波阶段，再分析核心温度计、承载切换、交易触发与风险退出。"
